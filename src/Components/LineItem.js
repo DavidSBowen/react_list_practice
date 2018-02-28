@@ -5,12 +5,13 @@ import Age from './Age';
 import Gender from './Gender';
 import Email from './Email';
 import '../Styles/LineItem.css';
+import 'tachyons';
 
 class LineItem extends Component {
     render() {
         const { name, age, gender, email } = this.props;
         return (
-            <div className="lineItemFlex">
+            <div draggable='true' className="lineItemFlex cf w-80 ba br3 mv2 dim bg-black-30">
                 <Logo />
                 <Name name={name} />
                 <Age age={age} />

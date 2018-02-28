@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
+import 'tachyons';
 
 class Gender extends Component {
     render() {
+        const { gender } = this.props;
         return (
-            <p>gender</p>
+            <p className="ph1 w-20">{gender}</p>
         )
     }
 }

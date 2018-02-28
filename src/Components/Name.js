@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import '../Styles/Name.css';
+import 'tachyons';
 
 class Name extends Component {
     render() {
+        const {name} = this.props;
         return (
-            <h1>Name</h1>
+            <p className='ph1 w-20'>{name}</p>
         )
     }
 }

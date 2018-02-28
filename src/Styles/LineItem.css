@@ -1,4 +1,9 @@
 .lineItemFlex {
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
 }
+

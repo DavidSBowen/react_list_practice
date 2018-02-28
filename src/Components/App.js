@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import '../Styles/App.css';
 import LineItem from './LineItem';
 import data from '../Assets/Data/Data.json';
+import 'tachyons';
 
 class App extends Component {
   render() {
@@ -20,8 +21,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1>Employees</h1>
         </header>
-        {lineItemsArray}
+        <div>
+          {lineItemsArray}
+        </div>
       </div>
     );
   }
