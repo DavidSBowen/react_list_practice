@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "5a97023b097ceff02f10aa76",
+    "age": 40,
+    "name": "Rivas Wilkerson",
+    "gender": "male",
+    "email": "rivaswilkerson@applidec.com"
+  },
+  {
+    "_id": "5a97023bd69d206eb6272f9e",
+    "age": 31,
+    "name": "Diane Sharp",
+    "gender": "female",
+    "email": "dianesharp@applidec.com"
+  },
+  {
+    "_id": "5a97023bba41e8c707d6d443",
+    "age": 29,
+    "name": "Shelley Barker",
+    "gender": "female",
+    "email": "shelleybarker@applidec.com"
+  },
+  {
+    "_id": "5a97023b5550bd0074ab5c47",
+    "age": 40,
+    "name": "Silvia Nixon",
+    "gender": "female",
+    "email": "silvianixon@applidec.com"
+  },
+  {
+    "_id": "5a97023b3fd06d795bec3ec0",
+    "age": 32,
+    "name": "Mcguire King",
+    "gender": "male",
+    "email": "mcguireking@applidec.com"
+  },
+  {
+    "_id": "5a97023b3da8afbfcca8bbb5",
+    "age": 33,
+    "name": "Marcia Hill",
+    "gender": "female",
+    "email": "marciahill@applidec.com"
+  },
+  {
+    "_id": "5a97023b3af0ce9e184d25f6",
+    "age": 38,
+    "name": "Pace Conway",
+    "gender": "male",
+    "email": "paceconway@applidec.com"
+  },
+  {
+    "_id": "5a97023b4ead80ce0748d61d",
+    "age": 32,
+    "name": "Knox Kirkland",
+    "gender": "male",
+    "email": "knoxkirkland@applidec.com"
+  },
+  {
+    "_id": "5a97023bbef0e193bcf75a1e",
+    "age": 34,
+    "name": "Glenn Cross",
+    "gender": "male",
+    "email": "glenncross@applidec.com"
+  },
+  {
+    "_id": "5a97023b1d38ec054dfe87fa",
+    "age": 31,
+    "name": "Susanna Casey",
+    "gender": "female",
+    "email": "susannacasey@applidec.com"
+  }
+]
